@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421323933681",
+    "firebase_url": "https://know-my-location.firebaseio.com",
+    "project_id": "know-my-location",
+    "storage_bucket": "know-my-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421323933681:android:f425deb6dcd5ab75",
+        "android_client_info": {
+          "package_name": "tracking.location.kumar.ayush.locationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421323933681-tfh80kn1ojenrh3a8fvsmfbjug1sk759.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tracking.location.kumar.ayush.locationtracking",
+            "certificate_hash": "6ca29b999e15e7ac2a853a0ce65ca765eb486642"
+          }
+        },
+        {
+          "client_id": "421323933681-7f96l1vqg7tb3i8jqahnq05un0lo8739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1o7G5yVTCm9j3OJmci-jdmZjCWF-UhIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421323933681-7f96l1vqg7tb3i8jqahnq05un0lo8739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
